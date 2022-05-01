@@ -1,2 +1,0 @@
-model_checkpoint_path: "/home/jose13/Documents/mp6122/mp6122_patterns/mnist/saved_model/my_model"
-all_model_checkpoint_paths: "/home/jose13/Documents/mp6122/mp6122_patterns/mnist/saved_model/my_model"
