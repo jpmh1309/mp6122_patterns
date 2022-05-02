@@ -1,3 +1,6 @@
 [submodule "project/pretrained/darknet"]
 	path = project/pretrained/darknet
 	url = https://github.com/pjreddie/darknet
+[submodule "project/pretrained/project/pretrained/darkflow"]
+	path = project/pretrained/project/pretrained/darkflow
+	url = git@github.com:thtrieu/darkflow.git
